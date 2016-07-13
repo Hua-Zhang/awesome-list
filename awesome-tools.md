@@ -6,3 +6,6 @@
 
 ## rnnlm
 * http://rnnlm.org/
+
+## mmseg
+* http://technology.chtsai.org/mmseg/
