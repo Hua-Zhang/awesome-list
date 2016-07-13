@@ -5,3 +5,7 @@
 ### http://blog.csdn.net/neighborhoodguo/article/details/46868143
 
 cs224d stanford DL for NLP
+
+### https://ruby-china.org/topics/28000
+
+11 款开放中文分词引擎大比拼(包含各种开放API)
