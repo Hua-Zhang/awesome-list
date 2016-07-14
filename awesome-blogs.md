@@ -9,3 +9,7 @@ cs224d stanford DL for NLP
 ### https://ruby-china.org/topics/28000
 
 11 款开放中文分词引擎大比拼(包含各种开放API)
+
+### http://www.ijcai.org/Proceedings/2016
+
+IJCAI2016论文集
