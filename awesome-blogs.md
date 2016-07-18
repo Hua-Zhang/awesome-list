@@ -1,6 +1,9 @@
 ### 关于LSA,PLSA,LDA的博客不错
 * http://zhikaizhang.cn/
 
+### Topic model reading list
+* http://bigml.cs.tsinghua.edu.cn/~jianfei/lda-reading.html
+
 ### cs224d stanford DL for NLP
 * http://blog.csdn.net/neighborhoodguo/article/details/46868143
 * http://blog.csdn.net/yaoqiang2011/article/category/6256954
