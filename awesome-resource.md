@@ -3,3 +3,6 @@
 
 ### MMseg 提供的词典列表
 * http://technology.chtsai.org/wordlist/
+
+### 搜狗实验室
+* http://www.sogou.com/labs/
