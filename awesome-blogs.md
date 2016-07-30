@@ -13,3 +13,6 @@
 
 ### IJCAI论文集(换年份即可)
 * http://www.ijcai.org/Proceedings/2016
+
+### Deep Language Modeling for Question Answering using Keras
+* http://benjaminbolte.com/blog/2016/keras-language-modeling.html
