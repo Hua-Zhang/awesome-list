@@ -1,6 +1,9 @@
 ### 关于LSA,PLSA,LDA的博客不错
 * http://zhikaizhang.cn/
 
+### 通俗理解LDA主题模型
+* http://blog.csdn.net/v_july_v/article/details/41209515
+
 ### Topic model reading list
 * http://bigml.cs.tsinghua.edu.cn/~jianfei/lda-reading.html
 
