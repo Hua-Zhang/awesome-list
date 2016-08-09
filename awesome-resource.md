@@ -6,3 +6,6 @@
 
 ### 搜狗实验室
 * http://www.sogou.com/labs/
+
+### DL books
+* http://machinelearningmastery.com/deep-learning-books/
