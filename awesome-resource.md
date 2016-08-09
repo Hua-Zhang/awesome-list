@@ -9,3 +9,6 @@
 
 ### DL books
 * http://machinelearningmastery.com/deep-learning-books/
+
+### tensorflow资料大全
+* https://hackerlists.com/tensorflow-resources/
