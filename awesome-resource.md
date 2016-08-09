@@ -12,3 +12,6 @@
 
 ### tensorflow资料大全
 * https://hackerlists.com/tensorflow-resources/
+
+### 史上最全的开发和设计资源大全
+* http://blog.jobbole.com/104313/
