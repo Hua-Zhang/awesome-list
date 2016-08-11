@@ -1,3 +1,6 @@
+### Deep Robotics
+* http://blog.deeprobotics.es/
+
 ### 关于LSA,PLSA,LDA的博客不错
 * http://zhikaizhang.cn/
 
