@@ -9,3 +9,6 @@
 
 ## mmseg
 * http://technology.chtsai.org/mmseg/
+
+## lda-c
+* http://www.cs.columbia.edu/~blei/lda-c/
