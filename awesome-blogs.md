@@ -22,3 +22,7 @@
 
 ### Deep Language Modeling for Question Answering using Keras
 * http://benjaminbolte.com/blog/2016/keras-language-modeling.html
+
+### CRF++代码分析
+* http://www.hankcs.com/ml/crf-code-analysis.html
+* http://www.hankcs.com/ml/conditional-random-field.html
