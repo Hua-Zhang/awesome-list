@@ -15,3 +15,6 @@
 
 ### 史上最全的开发和设计资源大全
 * http://blog.jobbole.com/104313/
+
+### 刘知远老师整理的清华的nlp资源
+* http://nlp.csai.tsinghua.edu.cn/~lzy/codes.html
