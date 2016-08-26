@@ -18,3 +18,6 @@
 
 ### 刘知远老师整理的清华的nlp资源
 * http://nlp.csai.tsinghua.edu.cn/~lzy/codes.html
+
+### 刘洋老师的主页
+* http://www.thunlp.org/~ly/
