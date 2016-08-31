@@ -21,3 +21,6 @@
 
 ### 刘洋老师的主页
 * http://www.thunlp.org/~ly/
+
+### 学术资源种子
+* http://academictorrents.com/
