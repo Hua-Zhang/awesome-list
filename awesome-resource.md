@@ -24,3 +24,6 @@
 
 ### 学术资源种子
 * http://academictorrents.com/
+
+### 伯克利DL课程
+* https://berkeley-deep-learning.github.io/cs294-dl-f16/
