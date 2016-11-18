@@ -12,3 +12,7 @@
 
 ## lda-c
 * http://www.cs.columbia.edu/~blei/lda-c/
+
+## linux tools 讲解
+* http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html
+* http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/gdb.html
