@@ -28,3 +28,6 @@
 
 ### 伯克利DL课程
 * https://berkeley-deep-learning.github.io/cs294-dl-f16/
+
+### openCyc
+* http://www.cyc.com/platform/opencyc/
