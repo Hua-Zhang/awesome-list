@@ -31,3 +31,6 @@
 
 ### openCyc
 * http://www.cyc.com/platform/opencyc/
+
+### 邱希鹏老师DL教程
+* https://nndl.github.io/
