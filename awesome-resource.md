@@ -34,3 +34,6 @@
 
 ### 邱希鹏老师DL教程
 * https://nndl.github.io/
+
+### july《编程之法》
+* https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details
