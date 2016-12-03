@@ -37,3 +37,6 @@
 
 ### july《编程之法》
 * https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details
+
+### CMU Auton Lab
+* http://www.autonlab.org/start
