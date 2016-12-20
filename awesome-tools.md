@@ -16,3 +16,6 @@
 ## linux tools 讲解
 * http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html
 * http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/gdb.html
+
+## 哈佛大学 开源openNMT，torch实现
+* http://opennmt.net/
