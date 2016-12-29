@@ -19,3 +19,6 @@
 
 ## 哈佛大学 开源openNMT，torch实现
 * http://opennmt.net/
+
+## 深度学习 分词
+* https://github.com/koth/kcws
