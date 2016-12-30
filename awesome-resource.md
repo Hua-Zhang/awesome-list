@@ -40,3 +40,7 @@
 
 ### CMU Auton Lab
 * http://www.autonlab.org/start
+
+### 图解tensorflow源码
+* https://github.com/yao62995/tensorflow
+* http://www.cnblogs.com/yao62995/p/5773578.html
