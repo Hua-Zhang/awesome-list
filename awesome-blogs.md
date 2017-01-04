@@ -26,3 +26,6 @@
 ### CRF++代码分析
 * http://www.hankcs.com/ml/crf-code-analysis.html
 * http://www.hankcs.com/ml/conditional-random-field.html
+
+### PageRank 讲解
+* http://blog.codinglabs.org/articles/intro-to-pagerank.html
