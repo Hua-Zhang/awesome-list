@@ -4,6 +4,9 @@
 ### MMseg 提供的词典列表
 * http://technology.chtsai.org/wordlist/
 
+### THUOCL：清华大学开放中文词库
+* http://thuocl.thunlp.org/
+
 ### 搜狗实验室
 * http://www.sogou.com/labs/
 
