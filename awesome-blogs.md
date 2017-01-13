@@ -29,3 +29,6 @@
 
 ### PageRank 讲解
 * http://blog.codinglabs.org/articles/intro-to-pagerank.html
+
+### 写的DL技巧文章很不错
+* https://pgaleone.eu/
