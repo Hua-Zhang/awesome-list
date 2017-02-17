@@ -4,3 +4,7 @@
 
 ### Ontology Matching
 * http://www.ontologymatching.org/index.html
+
+
+### 仅需拖拽不用编程的深度学习平台
+* http://deepcognition.ai/
