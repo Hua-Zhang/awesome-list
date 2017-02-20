@@ -52,3 +52,6 @@
 
 ## pytorch
 * https://github.com/pytorch/pytorch
+
+## DyNet
+* https://github.com/clab/dynet
