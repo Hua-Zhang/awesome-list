@@ -22,3 +22,33 @@
 
 ## 深度学习 分词
 * https://github.com/koth/kcws
+
+## LightGBM
+* https://github.com/Microsoft/LightGBM
+
+## DMTK
+* https://github.com/Microsoft/DMTK
+
+## fast_rgf
+* https://github.com/baidu/fast_rgf
+
+## Paddle
+* https://github.com/PaddlePaddle/Paddle
+
+## fastText
+* https://github.com/facebookresearch/fastText
+
+## caffe
+* https://github.com/BVLC/caffe
+
+## mxnet
+* https://github.com/dmlc/mxnet
+
+## tensorflow
+* https://github.com/tensorflow/tensorflow
+
+## keras
+* https://github.com/fchollet/keras
+
+## pytorch
+* https://github.com/pytorch/pytorch
