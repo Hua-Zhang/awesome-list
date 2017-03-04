@@ -62,3 +62,6 @@
 
 ## pullword
 * http://www.pullword.com/
+
+## facebook图像(矢量)搜索工具
+* https://github.com/facebookresearch/faiss
