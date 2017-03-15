@@ -32,3 +32,6 @@
 
 ### 写的DL技巧文章很不错
 * https://pgaleone.eu/
+
+### licstar 的博客（句子篇章的NN表示学习）
+* http://licstar.net/
