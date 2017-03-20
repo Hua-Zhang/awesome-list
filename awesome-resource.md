@@ -56,3 +56,7 @@
 
 ### 中文开放知识图谱
 * http://openkg.cn/
+
+### gitbook
+* https://mqshen.gitbooks.io/prml/content/
+* https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/
