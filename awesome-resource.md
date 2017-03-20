@@ -53,3 +53,6 @@
 
 ### CN-DBpedia
 * http://kw.fudan.edu.cn/cndbpedia/intro/
+
+### 中文开放知识图谱
+* http://openkg.cn/
