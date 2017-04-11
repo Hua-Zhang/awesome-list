@@ -41,6 +41,9 @@
 ### 邱希鹏老师DL教程
 * https://nndl.github.io/
 
+### 台大李宏毅DL课程
+* http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html
+
 ### july《编程之法》
 * https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details
 
