@@ -1,5 +1,5 @@
 ### a deep reinforced model for abstractive summarization
-https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization
+* https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization
 
 ### c/c++、java、php等的一些tips
 * http://nadeausoftware.com/
