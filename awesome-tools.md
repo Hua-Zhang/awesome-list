@@ -1,6 +1,10 @@
 # awesome-tools
 很牛的工具地址列表
 
+## 法国勒芒大学轻量级Python神经机器翻译项目 nmtpy
+* https://github.com/lium-lst/nmtpy
+
+
 ## google word2vec
 * https://code.google.com/archive/p/word2vec/
 
