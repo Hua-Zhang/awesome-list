@@ -1,3 +1,7 @@
+# CNN 详解与实现
+* http://deepnotes.io/implementing-cnn
+* https://github.com/parasdahal/deepnet
+
 ### a deep reinforced model for abstractive summarization
 * https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization
 
