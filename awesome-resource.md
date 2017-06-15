@@ -1,4 +1,4 @@
-# CNN 详解与实现
+### CNN 详解与实现
 * http://deepnotes.io/implementing-cnn
 * https://github.com/parasdahal/deepnet
 
