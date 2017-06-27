@@ -1,9 +1,12 @@
 # awesome-tools
 很牛的工具地址列表
 
+## 刘洋老师搞得THUMT
+* http://thumt.thunlp.org/
+* https://arxiv.org/pdf/1706.06415.pdf
+
 ## 法国勒芒大学轻量级Python神经机器翻译项目 nmtpy
 * https://github.com/lium-lst/nmtpy
-
 
 ## google word2vec
 * https://code.google.com/archive/p/word2vec/
