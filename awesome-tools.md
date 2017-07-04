@@ -1,6 +1,9 @@
 # awesome-tools
 很牛的工具地址列表
 
+## TREE KERNELS IN SVM-LIGHT
+* http://disi.unitn.it/moschitti/Tree-Kernel.htm
+
 ## 刘洋老师搞得THUMT
 * http://thumt.thunlp.org/
 * https://arxiv.org/pdf/1706.06415.pdf
