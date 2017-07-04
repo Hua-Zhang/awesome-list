@@ -1,77 +1,76 @@
 # awesome-tools
 很牛的工具地址列表
 
-## TREE KERNELS IN SVM-LIGHT
+### TREE KERNELS IN SVM-LIGHT
 * http://disi.unitn.it/moschitti/Tree-Kernel.htm
 
-## 刘洋老师搞得THUMT
+### 刘洋老师搞得THUMT
 * http://thumt.thunlp.org/
 * https://arxiv.org/pdf/1706.06415.pdf
 
-## 法国勒芒大学轻量级Python神经机器翻译项目 nmtpy
+### 法国勒芒大学轻量级Python神经机器翻译项目 nmtpy
 * https://github.com/lium-lst/nmtpy
 
-## google word2vec
+### google word2vec
 * https://code.google.com/archive/p/word2vec/
 
-## rnnlm
+### rnnlm
 * http://rnnlm.org/
 
 ## mmseg
 * http://technology.chtsai.org/mmseg/
 
-## lda-c
+### lda-c
 * http://www.cs.columbia.edu/~blei/lda-c/
 
-## linux tools 讲解
+### linux tools 讲解
 * http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html
 * http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/gdb.html
 
-## 哈佛大学 开源openNMT，torch实现
+### 哈佛大学 开源openNMT，torch实现
 * http://opennmt.net/
 
-## 深度学习 分词
+### 深度学习 分词
 * https://github.com/koth/kcws
 
-## LightGBM
+### LightGBM
 * https://github.com/Microsoft/LightGBM
 
-## DMTK
+### DMTK
 * https://github.com/Microsoft/DMTK
 
-## fast_rgf
+### fast_rgf
 * https://github.com/baidu/fast_rgf
 
-## Paddle
+### Paddle
 * https://github.com/PaddlePaddle/Paddle
 
-## fastText
+### fastText
 * https://github.com/facebookresearch/fastText
 
-## caffe
+### caffe
 * https://github.com/BVLC/caffe
 
-## mxnet
+### mxnet
 * https://github.com/dmlc/mxnet
 
-## tensorflow
+### tensorflow
 * https://github.com/tensorflow/tensorflow
 
-## keras
+### keras
 * https://github.com/fchollet/keras
 
-## pytorch
+### pytorch
 * https://github.com/pytorch/pytorch
 
-## DyNet
+### DyNet
 * https://github.com/clab/dynet
 
-
-## pullwave
+### pullwave
 * http://pullwave.com/
 
-## pullword
+### pullword
 * http://www.pullword.com/
 
-## facebook图像(矢量)搜索工具
+### facebook图像(矢量)搜索工具
 * https://github.com/facebookresearch/faiss
