@@ -1,8 +1,12 @@
 # awesome-tools
 很牛的工具地址列表
 
+### Deepspeech-tf
+* https://github.com/mozilla/DeepSpeech
+* https://arxiv.org/abs/1412.5567
+
 ###  neural-style-tf
-https://github.com/cysmith/neural-style-tf
+* https://github.com/cysmith/neural-style-tf
 
 ### TREE KERNELS IN SVM-LIGHT
 * http://disi.unitn.it/moschitti/Tree-Kernel.htm
