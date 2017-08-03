@@ -1,3 +1,6 @@
+### 情感分析语料
+* https://github.com/UDICatNCHU/Open-Sentiment-Training-Data
+
 ### CNN 详解与实现
 * http://deepnotes.io/implementing-cnn
 * https://github.com/parasdahal/deepnet
