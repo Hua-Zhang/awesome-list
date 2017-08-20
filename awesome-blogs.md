@@ -1,3 +1,6 @@
+### deep learning for NLP best practices
+* http://ruder.io/deep-learning-nlp-best-practices/index.html#multitasklearning
+
 ### Deep Robotics
 * http://blog.deeprobotics.es/
 
