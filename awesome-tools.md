@@ -1,6 +1,9 @@
 # awesome-tools
 很牛的工具地址列表
 
+### Parallel Gradient Boosting Decision Trees
+* http://zhanpengfang.github.io/418home.html
+
 ### picture-tfClassifier
 * https://github.com/akshaypai/tfClassifier
 
