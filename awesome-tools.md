@@ -2,7 +2,7 @@
 很牛的工具地址列表
 
 ### autograd 个人比较推崇的玩法
-https://github.com/HIPS/autograd
+* https://github.com/HIPS/autograd
 
 ### Parallel Gradient Boosting Decision Trees
 * http://zhanpengfang.github.io/418home.html
