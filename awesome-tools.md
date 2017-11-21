@@ -1,6 +1,9 @@
 # awesome-tools
 很牛的工具地址列表
 
+### c++ 自动求导库
+* http://www.met.reading.ac.uk/clouds/adept/
+
 ### autograd 个人比较推崇的玩法
 * https://github.com/HIPS/autograd
 
