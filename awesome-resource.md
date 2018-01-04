@@ -1,3 +1,6 @@
+### CMU概率图模型课程
+* http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html
+
 ### 情感分析语料
 * https://github.com/UDICatNCHU/Open-Sentiment-Training-Data
 
