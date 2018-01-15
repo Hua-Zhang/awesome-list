@@ -1,3 +1,6 @@
+### 一众大佬搞得ML资源
+* https://distill.pub/
+
 ### deep learning for NLP best practices
 * http://ruder.io/deep-learning-nlp-best-practices/index.html#multitasklearning
 
