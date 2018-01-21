@@ -1,6 +1,9 @@
 # awesome-tools
 很牛的工具地址列表
 
+### Rust 自动微分库
+* https://github.com/maciejkula/wyrm
+
 ### c++ 自动求导库
 * http://www.met.reading.ac.uk/clouds/adept/
 
