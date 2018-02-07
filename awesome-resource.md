@@ -1,3 +1,6 @@
+### NG在斯坦福的机器学习课程
+* https://see.stanford.edu/Course/CS229
+
 ### CMU概率图模型课程
 * http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html
 
