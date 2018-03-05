@@ -106,3 +106,6 @@
 
 ### web框架
 * https://github.com/Tencent/Biny（腾讯超轻量级框架Biny）
+
+### 支持交叉的语义依存
+* https://github.com/HITalexwang/lstm-sdparser
