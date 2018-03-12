@@ -1,3 +1,6 @@
+### HIT-SCIR语料下载
+* http://ir.hit.edu.cn/hit-cdtb/
+
 ### NG在斯坦福的机器学习课程
 * https://see.stanford.edu/Course/CS229
 
