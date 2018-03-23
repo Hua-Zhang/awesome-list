@@ -1,3 +1,6 @@
+### xgboost相关博客
+* https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
 ### 一众大佬搞得ML资源
 * https://distill.pub/
 
