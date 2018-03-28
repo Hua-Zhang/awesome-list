@@ -1,3 +1,6 @@
+### Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code.
+* https://github.com/higgsfield/RL-Adventure
+
 ### HIT-SCIR语料下载
 * http://ir.hit.edu.cn/hit-cdtb/
 
