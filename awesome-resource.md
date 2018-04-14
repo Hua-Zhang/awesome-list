@@ -1,3 +1,6 @@
+### 迁移学习简明手册-王晋东
+* https://github.com/jindongwang/transferlearning-tutorial
+
 ### Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code.
 * https://github.com/higgsfield/RL-Adventure
 
