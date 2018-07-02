@@ -1,6 +1,9 @@
 # awesome-tools
 很牛的工具地址列表
 
+### NLP 十项全能库
+* https://github.com/salesforce/decaNLP
+
 ### Rust 自动微分库
 * https://github.com/maciejkula/wyrm
 
