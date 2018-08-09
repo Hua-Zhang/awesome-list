@@ -1,6 +1,9 @@
 # awesome-tools
 很牛的工具地址列表
 
+### online learning
+* https://github.com/LIBOL
+
 ### NLP 十项全能库
 * https://github.com/salesforce/decaNLP
 
