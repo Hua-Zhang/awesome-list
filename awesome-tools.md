@@ -1,6 +1,9 @@
 # awesome-tools
 很牛的工具地址列表
 
+### 高效的C++机器学习库
+* https://github.com/mlpack/mlpack
+
 ### online learning
 * https://github.com/LIBOL
 
