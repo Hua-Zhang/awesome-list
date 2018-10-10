@@ -1,3 +1,6 @@
+### 机器学习中的数学基础
+* https://mml-book.github.io/
+
 ### 迁移学习简明手册-王晋东
 * https://github.com/jindongwang/transferlearning-tutorial
 
