@@ -1,3 +1,8 @@
+## 三个ChineseNLPCorpus
+* https://github.com/SophonPlus/ChineseNlpCorpus
+* https://github.com/InsaneLife/ChineseNLPCorpus
+* https://github.com/liuhuanyong/ChineseNLPCorpus
+
 ### 机器学习中的数学基础
 * https://mml-book.github.io/
 
